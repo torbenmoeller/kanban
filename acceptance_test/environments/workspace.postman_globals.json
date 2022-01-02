@@ -1,0 +1,19 @@
+{
+	"id": "e851335d-8938-4f31-8454-6b5636777540",
+	"values": [
+		{
+			"key": "task2_uuid",
+			"value": "538459c6-4ca3-4d1f-bc93-9391d845b5cd",
+			"enabled": true
+		},
+		{
+			"key": "task1_uui",
+			"value": "f32b808e-011c-44a8-9563-5399c0bd4029",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2022-01-01T23:50:08.153Z",
+	"_postman_exported_using": "Postman/9.7.1"
+}
