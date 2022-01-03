@@ -2,7 +2,7 @@ name: Docker Image PR
 on: pull_request
 
 env:
-  IMAGE_NAME: torben/highscore
+  IMAGE_NAME: torben/kanban
 
 jobs:
   build:
