@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1
 
-FROM openjdk:17-jdk-alpine
+FROM openjdk:18-jdk-alpine
 
 WORKDIR /app
 # copy the packaged jar file into our docker image
